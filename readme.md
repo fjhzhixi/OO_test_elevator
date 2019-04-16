@@ -2,7 +2,7 @@
 
 ## 文件结构
 
-![](<https://github.com/fjhzhixi/OO_test_elevator/blob/master/img/file.png>)
+![](https://github.com/fjhzhixi/OO_test_elevator/blob/master/img/file.png)
 
 * `input_data`为输入文件夹
 * `lib`放官方输入输出包
